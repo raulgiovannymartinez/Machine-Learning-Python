@@ -1,4 +1,4 @@
 ## Credit
 - Professor: Volkan Vural
-- Course: DSE210
+- Course: DSE220
 - University: UCSD
